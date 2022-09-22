@@ -46,6 +46,6 @@ void main()
   } while (strcmp(answer, "YES") == 0);
   printf("Hello");
   printf("Goodbye\n");
-  printf("I'm coming\n");
-  printf("I'm sleep\n");
+  printf("I'm tired\n");
+  printf("I'm done\n");
 }
